@@ -1,0 +1,23 @@
+body {
+    color: #323852;
+    background-color: black;
+    padding: 0 0;
+    margin: 0 0;
+}
+h1 {
+    padding: 0 0;
+    margin: 0 0;
+}
+
+#background {
+    position: absolute;
+    left: 0;
+    top: 0;
+    float: left;
+    width: 1px;
+    height: 100%;
+    z-index: -10;
+    color: #19D104;
+    color: rgba(25, 209, 4, 0.5);
+    text-align: left;
+}
